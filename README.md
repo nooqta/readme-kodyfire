@@ -47,7 +47,7 @@ Give a ⭐️ if this project helped you!
 
 ## Credits
 
-readme-kodyfire builds on top of the original Readme generator (readme-md-generator)[https://github.com/kefranabg/readme-md-generator] by [kefranabg](https://github.com/kefranabg)
+readme-kodyfire builds on top of the original Readme generator [readme-md-generator](https://github.com/kefranabg/readme-md-generator) by [kefranabg](https://github.com/kefranabg)
 
 ## 📝 License
 
