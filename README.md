@@ -8,6 +8,13 @@
 
 ### 🏠 [Homepage](https://github.com/nooqta/kodyfire)
 
+## Requirements
+
+readme-kodyfire requires the kodyfire-cli to be installed
+
+```sh
+npm install -g kodyfire-cli
+```
 ## Install
 
 ```sh
@@ -16,6 +23,8 @@ npm install readme-kodyfire
 
 ## Usage
 
+Refer to the kodyfire ["install a kody"](https://github.com/nooqta/kodyfire#install-a-kody) section.
+Once your project is initialized and ready for kody, run the following command to generate your README.
 ```sh
 kody run -s kody-readme.json
 ```
