@@ -1,6 +1,6 @@
 {
   "name": "readme-kodyfire",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generate your README for your project with kodyfire",
   "main": "build/index.js",
   "scripts": {

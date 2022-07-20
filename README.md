@@ -1,5 +1,5 @@
 # Welcome to readme-kodyfire 👋
-![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+![Version](https://img.shields.io/badge/version-0.0.4-blue.svg?cacheSeconds=2592000)
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/nooqta/kodyfire#install-a-kody)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/nooqta/kodyfire/blob/main/LICENSE)
 [![Twitter: anis\_marrouchi](https://img.shields.io/twitter/follow/anis\_marrouchi.svg?style=social)](https://twitter.com/anis\_marrouchi)
@@ -28,7 +28,11 @@ Once your project is initialized and ready for kody, run the following command t
 ```sh
 kody run -s kody-readme.json
 ```
-
+## 📅 Future Features
+- Create profile Readme (use [github-profile-readme-generator](rahuldkjain
+/
+github-profile-readme-generator))
+- Create License
 ## Run tests
 
 ```sh
