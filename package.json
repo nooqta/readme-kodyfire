@@ -1,6 +1,6 @@
 {
   "name": "readme-kodyfire",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Generate your README for your project with kodyfire",
   "main": "build/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "@angular-devkit/core": "^12.2.3",
     "@angular-devkit/schematics": "^12.2.3",
     "ajv": "^8.6.3",
-    "basic-kodyfire": "^0.0.139",
+    "basic-kodyfire": "^0.0.156",
     "ejs": "^3.1.8",
     "fs-extra": "^10.0.0",
     "handlebars": "^4.7.7",
